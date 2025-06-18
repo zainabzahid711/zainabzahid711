@@ -1,45 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm zainab zahid
 
-<!--
-**zainabzahid711/zainabzahid711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻  🌱 Lifelong Learner | Open-Source Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and collaborating on exciting projects. Here’s a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h2 align="center">Hey, I'm Zainab Zahid</h2>
-
-<p align="center">
-  <em>Frontend Developer | DevOps Learner | CS @ 2025</em>
-</p>
-
-<p align="center">
-  <a href="mailto:zynabzahid877@gmail.com">Email</a> •
-  <a href="https://yourportfolio.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/zainabzahid">LinkedIn</a>
-</p>
+- 🌱 **Learning:** Building reliable interfaces and scalable systems, one deploy at a time.
+- 🔭 **Currently working on:** Projects that bridge frontend elegance with backend performance.
+- 👯 **Looking to collaborate on:** Open-source projects, product ideas, or anything that solves real problems.
+- 💬 **Ask me about:** Crafting user-focused experiences, debugging late-night errors, or finding clarity in chaos.
+- 📫 **How to reach me:** zynabzahid877@gmail.com
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** My tabs are organized. My life? Debatable.
 
 ---
 
-### 🚀 Projects
-- Hotel Management System
-- Cloud Brokerage Platform
+### 🛠️ Tech Stack
+![Languages/Tools](https://skillicons.dev/icons?i=js,react,nodejs,py,git,github,vscode&theme=dark)
 
 ---
 
-### 💻 Tools & Tech
-React • Next.js • TypeScript • Docker • AWS • Linux
+### 📊 GitHub Stats
+![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainabzahid711&show_icons=true&hide_title=true&theme=radical)
 
 ---
 
-<!-- aesthetic card (optional) -->
-<!--
-![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainabzahid711&show_icons=false&hide_title=true&hide=stars&theme=calm)
--->
+### 🔥 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainabzahid711&theme=radical)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ **Fun Tip:** Want to customize your GitHub profile like this? Check out [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for inspiration!
+
+Let’s connect and build something amazing together! 🚀
